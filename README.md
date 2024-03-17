@@ -2,7 +2,7 @@
 Ultimate - Rock, Paper, Scissors.
 
 This is a game you play against the computer in python.
-Type your choices from the prompt and tally up your score. If you and the computer choose the same option 2x points the next round. push q to quit.
+Type your choices from the prompt and tally up your score. If you and the computer choose the same option 2x points the next round. Push q to quit, and show score.
 
 Choices are not only rock, paper, scissors. Your have the ultimate options which are  
 
