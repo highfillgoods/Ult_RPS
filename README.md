@@ -9,7 +9,7 @@ Choices are not only rock, paper, scissors. You have the ultimate options which 
 "rock", "fire", "scissors", "snake", "human", "tree", "wolf", "sponge", "paper", "air", "water", "dragon", "devil", "lightining", "gun".
 
 ------------------------------------------------------------------
-Here is the break down of options with srength's and weaknes's. Open the link in browser to visualize the choices.
+Here is the visualizeation of the choices.
 https://thefuntimesguide.com/images/blogs/rockpaperscissors.jpg
 
 ------------------------------------------------------------------
